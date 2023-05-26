@@ -28,7 +28,9 @@ grid-template-rows: auto;
 .cuerpo1{
     height: 100%;
     width: 55vw;
-    background-color: brown;
+    
+    display: flex;
+    flex-direction: column;
 }
 .cuerpo2{
     
@@ -168,3 +170,6 @@ grid-template-rows: auto;
     
  }
  
+ #txc{
+    
+ }
