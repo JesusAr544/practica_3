@@ -65,13 +65,13 @@ grid-template-rows: auto;
 
 }
 #txb1{
-    grid-column: 23/27;
+    grid-column: 24/27;
     grid-row: 8/10;
    
     display: flex;
    }
    #txb2{
-    grid-column: 16/22;
+    grid-column: 19/22;
     grid-row: 8/10;
    
    }
